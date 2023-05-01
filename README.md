@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @palash4263
 - 👀 I’m interested in making new apps and creating websites
-- 🌱 I’m currently learning android studio 
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me on palashmishra47@gmail.com
 
